@@ -47,9 +47,9 @@ By Gender:
 ## Installation
 
 First clone the repository in a local folder
-
+```
 git clone https://github.com/vivek-kotecha/star-wars.git
-
+```
 then run the scripts from the terminal with
 
 ```
